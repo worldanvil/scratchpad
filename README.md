@@ -8,6 +8,10 @@ This space is for the community to share, discuss and refine ideas for expansion
 
 The repository itself is maintained by volunteers and not the World Anvil Team itself. The maintainers reserve the right to moderate any discussions and remove unconstructive criticism as necessary. 
 
+## How do I contribute?
+Check out the [Discussion Board](https://github.com/worldanvil/scratchpad/discussions) to see where you can get started.
+
+
 ## Current Hot Topics
 
 ### Article Templates
