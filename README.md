@@ -1,14 +1,14 @@
-# Welcome to WorldAnvil Scratchpad
+## Welcome to WorldAnvil Scratchpad
 
-First, this is not a bug-tracker. For reporting bug see => [Bug-Tracker](https://github.com/worldanvil/worldanvil-bug-tracker)  
-This is not a suggestion board either. See WorldAnvil.com for how to suggest features.
+This is not the place to report bugs! Report them in the [Bug-Tracker](https://github.com/worldanvil/worldanvil-bug-tracker) for World Anvil.
 
+To make a specific feature suggestion or request do so on the [Community Features Voting](https://www.worldanvil.com/community/voting/) Board.
 
-This is a Repository made public so that user can store info about know issues and needs for future update / overhaul of part of the Website.   
-This is purely scratchpad and drawingboard purpose. It's under the maintainers responsability and run at their discretion.  
-Expect wipes, refactoring and otherwise manipulation from the maintainer team without any kind of warning (well except this one). 
+This space is for the community to share, discuss and refine ideas for expansions and feature improvements. It is also used to collect and document known issues and potential workarounds. 
 
+The repository itself is maintained by volunteers and not the World Anvil Team itself. The maintainers reserve the right to moderate any discussions and remove unconstructive criticism as necessary. 
 
-## Open Subject
-### Templates
-- [Template Master List](./templates/list.md)
+## Current Hot Topics
+
+### Article Templates
+- [Template Master List Dicussions](./templates/list.md)
